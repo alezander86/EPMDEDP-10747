@@ -8,9 +8,9 @@ Docker Familiarization EPMDEDP-10747
 - Keycloak  http://192.168.88.107:8432
 - SonarQube http://192.168.88.107:9000
 
-https://github.com/alezander86/EPMDEDP-10747/tree/dev
+- https://github.com/alezander86/EPMDEDP-10747/tree/dev
 3. Deploy Keycloak with PostgreSQL database.
-https://github.com/alezander86/EPMDEDP-10747/tree/dev
+- https://github.com/alezander86/EPMDEDP-10747/tree/dev
 4. Display detailed information for each containers.
     docker inspect jenkins
 ![](screen/Screenshot_12.png)
