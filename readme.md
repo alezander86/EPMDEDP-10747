@@ -6,3 +6,5 @@ Create a Dockerfile according to the following requirements:
 * install helm-push plugin
 * install hadolint
 * install tfenv
+
+# docker run --rm -i hadolint/hadolint < Dockerfile | tee hadolint_lint.txt
