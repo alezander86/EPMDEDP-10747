@@ -4,6 +4,10 @@ Docker Familiarization EPMDEDP-10747
 1. Deploy the Docker environment on a working machine.
 * ![](screen/Screenshot_13.png)
 2. Deploy Keycloak, Jenkins, SonarQube using docker containers. Keycloak should work on port 8432. Jenkins should work on port 8332. SonarQube should work on port 9000.
+Jenkins   http://192.168.88.107:8332
+Keycloak  http://192.168.88.107:8432
+SonarQube http://192.168.88.107:9000
+
 https://github.com/alezander86/EPMDEDP-10747/tree/dev
 3. Deploy Keycloak with PostgreSQL database.
 https://github.com/alezander86/EPMDEDP-10747/tree/dev
