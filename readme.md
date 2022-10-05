@@ -28,7 +28,7 @@ Docker Familiarization EPMDEDP-10747
 
 7. Upload the resulting docker image to the docker hub.
 
-https://hub.docker.com/repository/docker/taruraiev/10747
+- https://hub.docker.com/repository/docker/taruraiev/10747
 
 ![](screen/Screenshot_34.png)
 ![](screen/Screenshot_35.png)
